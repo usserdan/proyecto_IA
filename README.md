@@ -1,4 +1,4 @@
-# PRIMERA ENTREGA DEL PROYECTO
+# PROYECTO INTRODUCCION A LA IA - 2024-1
 
 Integrantes:
 - Isabella Bedoya Orozco
