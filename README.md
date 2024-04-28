@@ -1,4 +1,4 @@
-# PROYECTO INTRODUCCION A LA IA - 2024-1
+# PROYECTO INTRODUCCION A LA INTELIGENCIA ARTIFICIAL - 2024-1
 
 # Integrantes:
 - Isabella Bedoya Orozco,
@@ -13,3 +13,6 @@
   CC 1063309730,
   Ingenieria Electrica
 
+# Segunda entrega:
+
+Link de video: https://youtu.be/rmMOiIdjln8
